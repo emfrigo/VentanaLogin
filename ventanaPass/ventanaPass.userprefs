@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ventanaPass/MainWindow.cs">
+    <Files>
+      <File FileName="ventanaPass/MainWindow.cs" Line="13" Column="23" />
+      <File FileName="ventanaPass/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State expanded="True">
+          <Node name="ventanaPass" expanded="True">
+            <Node name="ventanaPass" expanded="True">
+              <Node name="ventanaPass.MainClass" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
